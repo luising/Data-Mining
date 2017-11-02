@@ -1,0 +1,12 @@
+analisis quiniela
+gl número de goles del equipo local
+gp número de goles del equipo visistante
+
+    | gl/(gl+gp) gl and gp != 0
+xg -
+    | 0.5 gl and gp == 0
+
+xc el número de goles en contra
+xt los tiros a puerta
+xp la posesión de balón.
+xg -> f(x)

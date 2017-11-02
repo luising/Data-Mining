@@ -1,0 +1,3 @@
+{ "nodeKeyProperty": "id","
+	nodeDataArray": ["],
+	"linkDataArray": [

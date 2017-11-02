@@ -1,0 +1,26 @@
+<html>
+  <head>
+  <script language='JavaScript'>
+    function ChangeUrlTipo(formulaire)
+    {
+      destino = 'http://www.google.cl'
+      alert("Desu");
+      if (formulaire.productos.selectedIndex != 0)
+        location.href = destino + '?productos='+formulaire.productos.options[formulaire.productos.selectedIndex].value;
+
+    }
+  </Script>
+  </head>
+  <body>
+    <b>1.- Seleccione el (los) producto(s)</b>
+    <br>
+    <form name="form1" method="post" action="">
+      <select name="productos" size="1" onChange='ChangeUrlTipo(this.form)'>
+        <option selected>Escoga una opción</option>
+        <option value=1>Producto 1</option>
+        <option value=2>Producto 2</option>
+        <option value=3>Producto 3</option>
+      </select>
+    </form>
+  </body>
+</html>

@@ -1,0 +1,264 @@
+gun,1
+bladed,0
+feet or fists,0
+Gun,1
+beaten,0
+poisen,0
+strangle,0
+stick,0
+sap,0
+poison,0
+ax,0
+hands,0
+hatchet,0
+beating,0
+blunt force,0
+flat iron,0
+mallett,0
+billet,0
+Mallet,0
+iron bar,0
+brick,0
+cobble,0
+Stick,0
+stone,0
+OD,0
+beer glass,0
+ax (hatchet),0
+bottle,0
+gun (4shots),1
+arson,0
+gur,0
+cleaver,0
+lamp,0
+knife,0
+hammer,0
+rock,0
+pitchfork,0
+bomb,1
+coal oil,0
+strangled,0
+gas,0
+Scissors,0
+pincers,0
+acid,0
+drugs,0
+shears,0
+fprce,0
+wrench,0
+gun rifle,1
+sandbag,0
+fight,0
+chair,0
+stones,0
+skull,0
+weight,0
+riot,0
+carbon mon,0
+pushes man,0
+umbrella,0
+shovel,0
+gun on vic,1
+head,0
+stairs,0
+slashed,0
+Head,0
+club,0
+controller,0
+hip,0
+kicked,0
+throat cut,0
+hemorage,0
+basalt bloc,0
+razor,0
+axe,0
+dagger,0
+Hammer,0
+fun,0
+iron pipe,0
+handax,0
+Skull,0
+exertion,0
+skull fract,0
+ditto,0
+suffocate,0
+file,0
+hit head,0
+internl,0
+internal,0
+down stairs,0
+gun/knife,1
+cuspidor,0
+neck,0
+ditto?,0
+chloroform,0
+chlorophorm,0
+chorform,0
+sus 801,0
+2/4 scantlin,0
+gun shot,1
+strychnine,0
+urinal,0
+heart attack,0
+unk,0
+jaw,0
+drowned,0
+Cyanide,0
+rocks,0
+rolling pin,0
+gas?,0
+hamm/knif,0
+falls,0
+base. bat,0
+soldier pants down i,0
+stor thout 211 men,0
+hits head,0
+shot gun,1
+drugs found lat,0
+lady charged,0
+head agin wall,0
+gun knife,1
+cement block,0
+looks white,0
+hit abdomen,0
+scissors cuticle,0
+ash tray,0
+belt,0
+Bat,0
+down toilet,0
+Lead pipe,0
+streetcar,0
+overdose,0
+board,0
+window,0
+paddle,0
+dropped,0
+hit sidewalk,0
+hard object,0
+tripod,0
+stran/hamm,0
+frying pan,0
+Pushed,0
+gagged,0
+smother,0
+choked,0
+hot water,0
+gun 22 lugr,1
+purse sna,0
+fry pan,0
+chocked,0
+auto,0
+gun/beat,1
+hard oject,0
+beer bottle,0
+hit in head,0
+kick in head,0
+carb monox,0
+scalded,0
+figurine,0
+curtin rod,0
+concrete,0
+pushed,0
+Overdose,0
+tire iron,0
+knocked do,0
+defenestrate,0
+punch,0
+auto jack,0
+narcotics,0
+knock down,0
+hit choked,0
+in Bay,0
+Tiki statue,0
+files,0
+crutch,0
+smothered,0
+roller skate,0
+screwdriver,0
+gun sword,1
+door mat,0
+gun strangl,1
+lack of care,0
+hog tied,0
+castrated,0
+asphxiate,0
+hit inhead,0
+broom,0
+screwdrivr,0
+malnutrition,0
+bat etc,0
+punched,0
+knocked dwn,0
+head injury,0
+mace,0
+pillow,0
+m.c stand,0
+telephone,0
+poker,0
+lumber,0
+stranlde,0
+knitting need,0
+table leg,0
+gagged etc,0
+broom rectu,0
+needle,0
+pick handle,0
+ligature,0
+drug OD,0
+dismember,0
+filsts,0
+starvation,0
+moth suff,0
+crush head,0
+dwn stairs,0
+decapitate,0
+shook,0
+fireworks,0
+head pavem,0
+gun 410,1
+gun 25,1
+barbell,0
+bound,0
+knfe,0
+cane,0
+execution,0
+nude,0
+cord,0
+head trauma,0
+body wrapped,0
+gun beat,1
+brokenbottl,0
+tied up,0
+spear,0
+phone cord,0
+metal bar,0
+treelimb,0
+pliers,0
+ligature neck,0
+in trash,0
+shoe,0
+in bag,0
+jump,0
+stab,0
+chisel,0
+shaken,0
+defenstrate,0
+opiate,0
+club?,0
+foot,0
+bl force,0
+unknown,0
+the club",0
+2x4,0
+fire arson,0
+shotgun?,1
+tree limb,0
+on coming auto,0
+blunt trauma,0
+bat blunt,0
+Strangle,0
+defenestration,0
+blunt forcer,0
+gun in car,1
+TBD,0
+thrown overo,0

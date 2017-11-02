@@ -1,0 +1,8 @@
+requiere python 3.6.0 minimo
+	libreria openpyxl
+PARA EJECUTAR LOS ARCHIVOS 
+	Actividad 1 -arboles dar click en programa1.cmd
+	Actividad 2 -clasificacion de crimenes  
+				dar click en programa2.cmd clasificar
+				dar click en programa3.cmd para mostrar el grafico
+    Actividad 3 -Disco entrar carpeta de disco 

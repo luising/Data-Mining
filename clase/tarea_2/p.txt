@@ -1,0 +1,21 @@
+{ "nodeKeyProperty": "id",
+	"nodeDataArray": [
+		{ "id": 0, "loc": "120 120", "text": "dirigirse a la maquina" },
+		{ "id": 1, "loc": "420 120", "text": "solicitar un boleto" },
+		{ "id": 2, "loc": "720 120", "text": "ver si hay otra maquina" },
+		{ "id": 3, "loc": "420 220", "text": "dirigirse a otra maquina" },
+		{ "id": 4, "loc": "720 220", "text": "reclamar al guardia" },
+		{ "id": 5, "loc": "420 320", "text": "dirigirse  a lugar de espera del metro" },
+		{ "id": 6, "loc": "720 320", "text": "recoger boleto" }
+	],
+	"linkDataArray": [
+		{ "from":0, "to": 1, "text":"" },
+		{ "from":1, "to": 6, "text":"" },
+		{ "from":6, "to": 5, "text":"" },
+		{ "from":1, "to": 2, "text":"Xor Split " },
+		{ "from":2, "to": 3, "text":"" },
+		{ "from":3, "to": 1, "text":"Xor Join " },
+		{ "from":2, "to": 4, "text":"Xor Split " },
+		{ "from":4, "to": 5, "text":"Xor Join " }
+	]
+}
