@@ -1,5 +1,5 @@
-#Variables
-step = 2 #Numero de pasos de placeholders AxxB etc
+# Variables
+step = 2 # Numero de pasos de placeholders AxxB etc
 pos = 0
 pos2 = 0
 a = "AVCAYCAYC" #string principal
@@ -12,9 +12,9 @@ temp = [] #Lista temporal que se usa para no guardar elementos repetidos
 mayor = 0
 
 for i in range(len(a)):
-    if(step>=len(a)):
+    if(step >= len(a)):
        break
-       
+
     print("//////////////////////////////////////////////////////////////////")
     print("Placeholder de "+str(step))
     for j in range(len(a)):
@@ -32,9 +32,9 @@ for i in range(len(a)):
                     temp.append(aux) #Elemento
                     temp.append(c) #Total de incidencias
                     temp.append(step) #Numero de placeholders
-                    apoyo = float(c*(step+1))/float(len(a)) #Funcion de apoyo
+                    apoyo = float(c*2)/float(len(a)) #Funcion de apoyo
                     temp.append(apoyo) #Apyo)
-                    
+
                     #Validacion para no agregar valores repetidos
                     if(temp not in totales):
                         totales[indx].append(aux)
