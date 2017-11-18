@@ -10,9 +10,9 @@ class ReadLog:
         self.a = archivo
         self.wb = load_workbook(archivo)
         self.ws = self.wb.active
-        self.titulo = [[cell.value for cell in row] for row in self.ws.iter_rows()][0]
-        filas = [[cell.value for cell in row] for row in self.ws.iter_rows(row_offset=1)]
-        del filas[len(filas) - 1]
+        filas = [[cell.value for cell in row] for row in self.ws.iter_rows()]
+        self.titulo = filas[0]
+        del filas[0]
         self.filas = filas
 
     def ordenar(self, primer, segundo):
