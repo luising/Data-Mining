@@ -1,9 +1,11 @@
+"""Arbol de Desicion."""
 # -*- coding: utf-8 -*-
 from funciones.Mxlsx import *
 import math as m
 
 
 def ordenarxColumna(filas, primer, segundo):
+    """ordenar por columna."""
     # parametros son las columnas que se van ordenar
     # Ordenamos las filas en función de el primero y en función del segundo.
     return filas.sort(key=itemgetter(primer, segundo))
