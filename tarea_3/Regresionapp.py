@@ -2,7 +2,7 @@ import funciones.LM as lm
 import funciones.Values as v
 import numpy as np
 
-inputs = v.vp
+inputs = v.vexponential
 funciones = ["exponential b^x", "Logarithmic log(x)", "trigonometric: Sin(x)", "trigonometric: Cos(x)", "trigonometric: Tan(x)"]
 
 t = np.array(inputs)
@@ -24,9 +24,11 @@ err.append(abs(sum(np.abs(sin) - y)))
 err.append(abs(sum(np.abs(cos) - y)))
 err.append(abs(sum(np.abs(tan) - y)))
 salida = np.array([exp, log, sin, cos, tan])
-bestfunction = funciones[err.index(min(err))]
+d = err.index(min(err))
+bestfunction = funciones[d]
+value = salida[d]
 
 print("---Funcion mas optima---")
 print(bestfunction)
-print("salida: ", salida[index])
+print("salida: ", value)
 print("y :", y)
